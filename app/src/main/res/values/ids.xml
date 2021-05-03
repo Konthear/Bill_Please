@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="textTotalBill" type="id" />
+    <item name="textEachPaxPay" type="id" />
+    <item name="split" type="id" />
+    <item name="reset" type="id" />
+    <item name="editDiscount" type="id" />
+</resources>
